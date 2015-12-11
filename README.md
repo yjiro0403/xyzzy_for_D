@@ -3,7 +3,8 @@ Because this program is not complated, it is updated some time. If you will help
 
 #Install
 1. move "d-mode.l" to "xyzzy/lisp" or other directory
-2. load "d-mode.l" on directory you moved
+2. move "D" to "xyzzy/etc" (you add code in this file, it will be colored on xyzzy)
+3. load "d-mode.l" on directory you moved
 
 ```lisp:site-init.l
 ;Add D-mode
