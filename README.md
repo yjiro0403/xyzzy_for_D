@@ -1,6 +1,5 @@
 #README
-ÅEBecause this program is not complated, it is updated some time.
-ÅEIf you will help me to update this code, get in touch freely.
+Because this program is not complated, it is updated some time. If you will help me to update this code, get in touch freely.
 
 #Install
 1. move "d-mode.l" to "xyzzy/lisp" or other directory
@@ -14,7 +13,7 @@
 ```
 
 #Problems
-ÅEPredicted some unnecessary codes.
+Predicted some unnecessary codes.
 
 #License
 MIT License
